@@ -14,7 +14,9 @@
 ```bash
 pip install -r requirements.txt
 ```
-如运行 Selenium 方案，请安装 ChromeDriver 并与本机 Chrome 版本匹配。
+
+> 如运行 Selenium 方案，请安装 ChromeDriver 并与本机 Chrome 版本匹配。
+
 ---
 
 ## 快速运行
